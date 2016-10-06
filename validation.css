@@ -1,0 +1,9 @@
+/*Validation Styles*/
+
+#email:invalid, #linkedin:invalid{
+	background: red;
+}
+
+#email:valid, #linkedin:valid {
+	background: green;
+}
